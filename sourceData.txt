@@ -1,0 +1,11 @@
+The PHP script is dependant on preloaded source files from the following location.
+The file data should be in Regex format.
+
+Format: 
+[a-z]{8,}[0-9]{1,}_[0-9]{1,}.csv$
+
+
+CSV Source Location:
+http://www.bramblemet.co.uk/(S(4cwerg55bbwmt0e4acwajd45))/search.aspx
+
+
